@@ -1,5 +1,14 @@
 # Changelog
 
+## [2.6.0](https://github.com/googleapis/python-aiplatform/compare/v2.5.0...v2.6.0) (2026-10-14)
+
+
+### Features
+
+* Add client.memory_banks.update method. ([0ac315e](https://github.com/googleapis/python-aiplatform/commit/0ac315ef93924318ce53916ee47c6b28a67294de))
+* Export ADK agent engine template logs to the Telemetry API ([448abba](https://github.com/googleapis/python-aiplatform/commit/448abba2e6d4c907f6d4e0970e1c5bc0b3ac18e9))
+* Onboard Vertex Model Garden to GenAI Python SDK: Add deploy_custom_model ([46ae3d0](https://github.com/googleapis/python-aiplatform/commit/46ae3d06858d9a8c278189c19b779818cd13c978))
+
 ## [2.5.0](https://github.com/googleapis/python-aiplatform/compare/v2.4.0...v2.5.0) (2026-10-13)
 
 
